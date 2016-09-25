@@ -11,4 +11,4 @@
 [微信小程序文档](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html)
 
 更多信息及开发工具下载：
-[传送门](https://github.com/xwartz/wechat-app-demo/wiki)
+[传送门](https://github.com/justjavac/awesome-wechat-weapp)
